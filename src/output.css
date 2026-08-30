@@ -201,9 +201,6 @@
   .z-50 {
     z-index: 50;
   }
-  .z-1000 {
-    z-index: 1000;
-  }
   .container {
     width: 100%;
     @media (width >= 40rem) {
